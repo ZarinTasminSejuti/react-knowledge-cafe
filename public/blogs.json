@@ -1,0 +1,63 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/BGSXfWL/blog-Cover.jpg",
+        "title": "sample book title",
+        "author": "john doe",
+        "author_img": "https://i.ibb.co/JHmhkDJ/author1.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 45,
+        "hashtags": ["fiction", "adventure", "booklover"]
+      },
+      {
+        "id": 67890,
+        "cover": "https://example.com/another-cover.jpg",
+        "title": "another book title",
+        "author": "jane smith",
+        "author_img": "https://i.ibb.co/JHmhkDJ/author1.jpg",
+        "posted_date": "2023-09-13",
+        "reading_time": 60,
+        "hashtags": ["romance", "novel", "love"]
+      },
+      {
+        "id": 24680,
+        "cover": "https://example.com/cover3.jpg",
+        "title": "third book title",
+        "author": "bob Johnson",
+        "author_img": "https://i.ibb.co/JHmhkDJ/author1.jpg",
+        "posted_date": "2023-09-14",
+        "reading_time": 75,
+        "hashtags": ["science fiction", "space", "technology"]
+      },
+      {
+        "id": 13579,
+        "cover": "https://example.com/cover4.jpg",
+        "title": "fantasy book",
+        "author": "susan Brown",
+        "author_img": "https://i.ibb.co/JHmhkDJ/author1.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": 90,
+        "hashtags": ["fantasy", "magic", "adventure"]
+      },
+      {
+        "id": 98765,
+        "cover": "https://example.com/cover5.jpg",
+        "title": "mystery novel",
+        "author": "david Wilson",
+        "author_img": "https://i.ibb.co/r6k6R03/author2.jpg",
+        "posted_date": "2023-09-16",
+        "reading_time": 55,
+        "hashtags": ["mystery", "detective", "suspense"]
+      },
+      {
+        "id": 54321,
+        "cover": "https://example.com/cover6.jpg",
+        "title": "historical fiction",
+        "author": "emily White",
+        "author_img": "https://i.ibb.co/r6k6R03/author2.jpg",
+        "posted_date": "2023-09-17",
+        "reading_time": 70,
+        "hashtags": ["history", "fiction", "historical"]
+      } 
+      
+]
